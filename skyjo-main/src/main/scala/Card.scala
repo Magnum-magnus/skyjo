@@ -1,6 +1,6 @@
 package de.htwg.se
 
-object Card {
+object Card(val wert:Int) {
   val punkte: Int = 5
 
 }
